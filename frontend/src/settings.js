@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Dakokuya Xianyu Dashborad',
+  title: 'First System',
 
   /**
    * @type {boolean} true | false
