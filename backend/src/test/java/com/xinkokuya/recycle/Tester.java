@@ -1,6 +1,5 @@
 package com.lalafafa.first;
 
-
 import com.lalafafa.first.Application;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
