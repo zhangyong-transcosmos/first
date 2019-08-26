@@ -1,7 +1,6 @@
-package com.xinkokuya.recycle;
+package com.lalafafa.first;
 
-
-import com.xinkokuya.recycle.Application;
+import com.lalafafa.first.Application;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.annotation.Rollback;
