@@ -18,7 +18,9 @@ import static com.lalafafa.first.core.ProjectConstant.*;
  */
 public class CodeGenerator {
     //JDBC配置，请修改为你项目的实际配置
+
     private static final String JDBC_URL = "jdbc:mysql://127.0.0.1:3306/first?useSSL=false";
+
     private static final String JDBC_USERNAME = "root";
     private static final String JDBC_PASSWORD = "root";
     private static final String JDBC_DIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
